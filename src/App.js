@@ -1,5 +1,5 @@
 import "./App.css";
-import font from "./components/font.module.css";
+// import font from "./components/font.module.css";
 
 import Regalos from "./components/Regalos";
 
