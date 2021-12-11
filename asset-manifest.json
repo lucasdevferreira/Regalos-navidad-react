@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/lucasdevferreira/Regalos-navidad-react/static/css/main.8f69ae60.chunk.css",
-    "main.js": "/lucasdevferreira/Regalos-navidad-react/static/js/main.8d19ddda.chunk.js",
-    "main.js.map": "/lucasdevferreira/Regalos-navidad-react/static/js/main.8d19ddda.chunk.js.map",
-    "runtime-main.js": "/lucasdevferreira/Regalos-navidad-react/static/js/runtime-main.a0127730.js",
-    "runtime-main.js.map": "/lucasdevferreira/Regalos-navidad-react/static/js/runtime-main.a0127730.js.map",
-    "static/js/2.6e518c55.chunk.js": "/lucasdevferreira/Regalos-navidad-react/static/js/2.6e518c55.chunk.js",
-    "static/js/2.6e518c55.chunk.js.map": "/lucasdevferreira/Regalos-navidad-react/static/js/2.6e518c55.chunk.js.map",
-    "static/js/3.f25f5f0e.chunk.js": "/lucasdevferreira/Regalos-navidad-react/static/js/3.f25f5f0e.chunk.js",
-    "static/js/3.f25f5f0e.chunk.js.map": "/lucasdevferreira/Regalos-navidad-react/static/js/3.f25f5f0e.chunk.js.map",
+    "main.js": "/lucasdevferreira/Regalos-navidad-react/static/js/main.b4dae22b.chunk.js",
+    "main.js.map": "/lucasdevferreira/Regalos-navidad-react/static/js/main.b4dae22b.chunk.js.map",
+    "runtime-main.js": "/lucasdevferreira/Regalos-navidad-react/static/js/runtime-main.1719cb4a.js",
+    "runtime-main.js.map": "/lucasdevferreira/Regalos-navidad-react/static/js/runtime-main.1719cb4a.js.map",
+    "static/js/2.c49fba5e.chunk.js": "/lucasdevferreira/Regalos-navidad-react/static/js/2.c49fba5e.chunk.js",
+    "static/js/2.c49fba5e.chunk.js.map": "/lucasdevferreira/Regalos-navidad-react/static/js/2.c49fba5e.chunk.js.map",
+    "static/js/3.7349448d.chunk.js": "/lucasdevferreira/Regalos-navidad-react/static/js/3.7349448d.chunk.js",
+    "static/js/3.7349448d.chunk.js.map": "/lucasdevferreira/Regalos-navidad-react/static/js/3.7349448d.chunk.js.map",
     "index.html": "/lucasdevferreira/Regalos-navidad-react/index.html",
     "static/css/main.8f69ae60.chunk.css.map": "/lucasdevferreira/Regalos-navidad-react/static/css/main.8f69ae60.chunk.css.map",
-    "static/js/2.6e518c55.chunk.js.LICENSE.txt": "/lucasdevferreira/Regalos-navidad-react/static/js/2.6e518c55.chunk.js.LICENSE.txt"
+    "static/js/2.c49fba5e.chunk.js.LICENSE.txt": "/lucasdevferreira/Regalos-navidad-react/static/js/2.c49fba5e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a0127730.js",
-    "static/js/2.6e518c55.chunk.js",
+    "static/js/runtime-main.1719cb4a.js",
+    "static/js/2.c49fba5e.chunk.js",
     "static/css/main.8f69ae60.chunk.css",
-    "static/js/main.8d19ddda.chunk.js"
+    "static/js/main.b4dae22b.chunk.js"
   ]
 }
